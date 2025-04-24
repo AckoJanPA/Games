@@ -13,3 +13,9 @@
 - fixed chat names when joining
 - changed **chat display** from Scratch list to custom-font text block (mobile supported)
 - added scroller for chat (mobile friendly)
+
+### Update 0.2.1
+#### Outline
+- added ***test* support for iOS**
+#### All features
+- added Lily's Toolbox "is mobile" function to **apparently work on iOS** 
